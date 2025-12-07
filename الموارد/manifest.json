@@ -1,0 +1,29 @@
+{
+  "short_name": "هجري",
+  "name": "هجري",
+  "icons": [
+    {
+      "src": "hijri_icon_64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "hijri_icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "hijri_icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/",
+  "start_url": "/",
+  "background_color": "#E0E0F5FF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#2C3E50FF",
+  "description": "برنامج للتقويم الهجري",
+  "orientation": "portrait"
+}
